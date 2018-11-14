@@ -1,0 +1,45 @@
+/* .class {
+  border: 5px solid black;
+  height: 400px;
+  width: 500px;
+}
+/* .red{
+  color: red;
+} */
+/* .color {
+  border: 5px solid green;
+} */
+button{
+  height:40px;
+  width:70px;
+}
+.pink{
+  background-color: pink;
+}
+.black{
+  background-color: black;
+}
+.green{
+  background-color: green;
+}
+.orange{
+  background-color: orange;
+}
+.tomato{
+  background-color: tomato;
+}
+.red{
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
+.brown{
+  background-color: brown;
+}
+.purple{
+  background-color: purple;
+}
+.grey{
+  background-color: grey;
+}
